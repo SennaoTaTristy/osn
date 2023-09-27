@@ -1,0 +1,8 @@
+/USERFILES/
+/messageUsernames/
+/logins/
+/lotd.txt
+/weather/alerts.json
+/weather/alertTimestamp.txt
+/logs/errors/*
+.devcontainer
